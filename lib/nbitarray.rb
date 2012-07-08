@@ -1,5 +1,4 @@
 require 'nbitarray/version'
-require 'pry'
 
 class NBitArray
   MARSHAL_SPLIT_SIZE = 512
